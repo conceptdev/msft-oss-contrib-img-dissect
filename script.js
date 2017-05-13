@@ -2645,7 +2645,7 @@ $(document).ready(function() {
         { x: 20, y: 23, github: null },
         { x: 21, y: 23, github: null },
         { x: 22, y: 23, github: null },
-        { x: 23, y: 23, github: null },
+        { x: 23, y: 23, github: "ashtom" },
         { x: 24, y: 23, github: null },
         { x: 25, y: 23, github: null },
         { x: 26, y: 23, github: null },
